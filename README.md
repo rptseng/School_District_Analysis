@@ -5,7 +5,9 @@ Using data from the district school board, we will use the pandas dependency in 
 ## Results
 - District Summary
     - Prior to removing the grades of 461 ninth graders at Thomas High School, the district "% of Overall Passing" was at 65%.
+    ![district_summary_all](https://github.com/rptseng/School_District_Analysis/blob/main/Resources/district_summary_all.PNG)
     - After removing the grades of 461 ninth graders at Thomas High School from the data frame, the district "% of Overall Passing" is at 64.9%.
+    ![district_summary_ex_ths](https://github.com/rptseng/School_District_Analysis/blob/main/Resources/district_summary_ex_ths.PNG)
 - School Summary
     - Prior to removing the grades of 461 ninth graders at Thomas High School, the "% of Overall Passing" was at 90.95%
     - After removing the grades of 461 ninth graders at Thomas High School from the data frame, the "% of Overall Passing" is at 90.63%
