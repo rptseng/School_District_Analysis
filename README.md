@@ -17,6 +17,7 @@ Using data from the district school board, we will use the pandas dependency in 
     - Prior to removing the grades of 461 ninth graders at Thomas High School, the "% of Overall Passing" ranks second in the district with a value of 90.95%.
     ![school_sort_all](https://github.com/rptseng/School_District_Analysis/blob/main/Resources/school_sort_all.PNG)
     - After removing the grades of 461 ninth graders at Thomas High School from the data frame, the "% of Overall Passing" still ranks second in the district with a value of 90.63%. Removing the grades of these students did not impact its position on the list of top schools.
+    
     ![school_sort_ex_ths](https://github.com/rptseng/School_District_Analysis/blob/main/Resources/school_sort_ex_ths.PNG)
 
 - Math and reading scores by grade
