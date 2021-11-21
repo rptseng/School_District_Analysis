@@ -20,20 +20,21 @@ Using data from the district school board, we will use the pandas dependency in 
     ![school_sort_ex_ths](https://github.com/rptseng/School_District_Analysis/blob/main/Resources/school_sort_ex_ths.PNG)
 
 - Math and reading scores by grade
-    - The math and reading scores by grade are grouped by school, so the replacement of ninth-grade scores only affects Thomas High School returning a NULL value and doesn't affect the output of the other rows in the school index
+    - The math and reading scores by grade are grouped by school, so the replacement of ninth-grade scores only affects Thomas High School returning a NULL value and doesn't affect the output of the other rows in the school index.
     ![scores_by_grade_ex_ths](https://github.com/rptseng/School_District_Analysis/blob/main/Resources/scores_by_grade_ex_ths.PNG)
 
 - Scores by school spending
-    - The removal of 461 students' grades did not have an impact on the district summary of reading and math grades binned by spending
+    - The removal of 461 students' grades did not have an impact on the district summary of reading and math grades binned by spending.
     ![scores_by_spending](https://github.com/rptseng/School_District_Analysis/blob/main/Resources/scores_by_spending.PNG)
 
 - Scores by school size
-    - The removal of 461 students' grades did not have an impact on the district summary of reading and math grades binned by population size
+    - The removal of 461 students' grades did not have an impact on the district summary of reading and math grades binned by population size.
     ![scores_by_size](https://github.com/rptseng/School_District_Analysis/blob/main/Resources/scores_by_size.PNG)
 
 - Scores by school type
-    - The removal of 461 students' grades did not have an impact on the district summary of reading and math grades binned by school type
-    
+    - The removal of 461 students' grades did not have an impact on the district summary of reading and math grades binned by school type.
+    ![scores_by_type](https://github.com/rptseng/School_District_Analysis/blob/main/Resources/scores_by_type.PNG)
+
 
 ## Summary
 This is the summary of changes to the District results analysis after removing the grades at Thomas High School:
